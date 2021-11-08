@@ -9,6 +9,10 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects, read papers faster
 - ⚡ Fun fact: I love dogs, spaceX' rockets, Comma.ai sofware system
+
+---
+
+
 ![Github Stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=
 sitiporn&theme=dracula)
 
