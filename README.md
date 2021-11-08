@@ -15,8 +15,6 @@
 
 ![Github Stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sitiporn&theme=dracula)
 
-![Github Stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sitiporn&theme=dracula)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sitiporn&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
