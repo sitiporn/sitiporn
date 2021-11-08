@@ -2,7 +2,7 @@
 
 
 
-## I'm a noob Developer !!! 
+## I'm a noob Engineer !!! 
 
 
 - 🌱 I’m currently learning everything 🤣
