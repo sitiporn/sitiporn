@@ -2,7 +2,7 @@
 
 
 
-## I'm a noob Engineer !!! 
+## I'm a noob Learner !!! 
 
 
 - 🌱 I’m currently learning to how to learn, machine learning, deep learning 🤣
