@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning to how to learn, machine learning, deep learning 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects, read papers faster
-- ⚡ Fun fact: I love dogs, landing spaceX' rockets on the droneships, Comma.ai sofware system
+- ⚡ Fun fact: I love dogs, Comma.ai sofware system, when I think something it's impossible or sound a bit crazy I thought SpaceX they 're landing rockets on a droneship  droneships at sea I just have to shake my head what they are able to accomplish
 
 ---
 
