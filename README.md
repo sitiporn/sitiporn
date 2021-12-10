@@ -29,7 +29,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitiporn&layout=compact&theme=algolia" />
+
 
 
 <!--START_SECTION:waka-->
