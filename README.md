@@ -2,7 +2,7 @@
 
 
 
-## I'm a Engineer !!! 
+## I'm a Engineer and Scientist !!! 
 
 
 - 🌱 I’m currently learning to how to learn, machine learning, deep learning 🤣
