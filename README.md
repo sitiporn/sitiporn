@@ -4,11 +4,8 @@
 
 ## I'm  engineer and scientist !!! 
 
-
-- 🌱 I’m currently learning to how to learn, machine learning, deep learning 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects, read papers faster
-- ⚡ Fun fact: I love dogs, Comma.ai sofware system, SpaceX they 're landing rockets on a droneship  at sea.
+- Goals: Contribute more to Open Source projects, read papers faster
+- ⚡ Fun fact: I love dogs, Comma.ai, SpaceX they 're landing rockets on a droneship  at sea.
 
 ---
 
